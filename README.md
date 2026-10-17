@@ -66,14 +66,13 @@
 
 - [Passiv](https://passiv.com) - Passiv turns your brokerage account into a modern portfolio management tool. Build your own personalized index, invest and rebalance with the click of a button.
 - [Wealthica](https://wealthica.com) - A service that aggregates all your accounts and assets into a single dashboard.
-- [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
 - [LunchMoney](https://lunchmoney.app/) - Delightfully simple personal finance & budgeting.
 - [Ghostfolio](https://ghostfol.io/) - Open source wealth management software.
 
 ### Calculators
 
-- [Income Tax Calculator](http://simpletax.ca/calculator) - Calculate the amount of income tax you should pay based on your income, capital gains, dividends, etc.
+- [Canada Money Tools](https://canadamoneytools.ca) - Free Canadian finance calculators (TFSA, RRSP, mortgage, compound interest) plus Ontario salary-after-tax breakdown pages, with 2026 CRA/Ontario tax figures cited. No signup, runs entirely in the browser.
 - [Mortgage Calculator](https://www.ratehub.ca/mortgage-payment-calculator) - Calculate mortgage payments, monthly expenses, total interest paid, etc.
 - [Interest Calculator](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/) - Calculate the amount of interest for compounding investments.
 - [Retirement Calculator](https://www.wealthsimple.com/en-ca/tool/retirement-calculator/) - See an approximation of your retirement based on your current savings and expected future savings.
